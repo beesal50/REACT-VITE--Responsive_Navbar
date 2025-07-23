@@ -1,7 +1,10 @@
-I have tried to create responsive navbar 
+Create responsive navbar for Mobile view and Desktop
 
-i have used react vite,react-router-dom for routing,tailwindcss for styling,framer-motion as motion according to latest update for animation4
+What i have used in this project:
+i. react-router-dom for routing
+ii. Tailwindcss for styling
+iii. Framer-motion for animation
 
-at first trying its simple
-at second funcationality is there 
-at third(final revision) i have used my concept for animation 
+At first folder its simple, 
+At second folder adding funcationality, 
+At third(final revision folder) i have used my concept for animation 
